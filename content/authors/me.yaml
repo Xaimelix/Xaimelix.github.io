@@ -1,0 +1,102 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "Иванов Арсений"
+  given: "Арсений"
+  family: "Иванов"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+status:
+  icon: "☕️"
+role: "Student in Computer Science, RUDN University"
+bio: "Арсений Иванов — студент Российского университета дружбы народов. Арсений увлечен программированием и искусственным интеллектом.
+
+  Он активно участвует в разработке проектов и стартапов с открытым исходным кодом и стремится внести свой вклад в сообщество разработчиков.\ \n"
+links:
+  - icon: "at-symbol"
+    url: "mailto:1132250436@rudn.ru"
+    label: "E-mail Me"
+  - icon: "brands/telegram"
+    url: "https://t.me/Xaimelix"
+  - icon: "brands/github"
+    url: "https://github.com/Xaimelix"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=example"
+interests:
+  - "Large Language Models"
+  - "Computer Vision"
+  - "Robotics"
+  - "Agentic Systems"
+education:
+  - degree: "Bachelor in Computer Science"
+    institution: "RUDN University"
+    start: "2025-09-01"
+    end: "2029-06-30"
+    summary: "Currently pursuing a Bachelor's degree in Computer Science at RUDN University. Expected graduation in 2029.\n"
+  - degree: "Programming in Python (Basic + Advanced)"
+    institution: "Yandex Lyceum"
+    start: "2021-09-01"
+    end: "2023-05-31"
+  - degree: "AI Engineering"
+    institution: "School 21, Moscow, Sber"
+    start: "2025-11-21"
+    end: "2027-06-31"
+skills:
+  - name: "Technical Skills"
+    items:
+      - label: "Python"
+        level: 5
+      - label: "Machine Learning"
+        level: 3
+      - label: "C++"
+        level: 4
+  - name: "Research & Communication"
+    items:
+      - label: "Project Management"
+        level: 5
+      - label: "Conference Presentations"
+        level: 4
+      - label: "Academic Writing"
+        level: 4
+languages:
+  - name: "English"
+    level: 4
+    label: "Fluent"
+  - name: "Russian"
+    level: 5
+    label: "Native"
+awards:
+  - title: "Best Scholar Project 2024"
+    awarder: "FEFU"
+    date: "2024-10-23"
+    summary: "Awarded for outstanding research project on multimodal AI systems. Recognized for innovation and impact in the field.\n"
+    icon: "hero/trophy"
+  - title: "Nation-wide olympiad finalist (National Technological Olymiad)"
+    awarder: "National Technological Olymiad"
+    date: "2024-02-25"
+    summary: "Был в числе одной из 10 лучших команд участников Национальной технологической олимпиады по профилю «Водные Робототехнические Системы», участвовавших в заключительном этапе"
+    icon: ""
+  - title: "Open contest of accomplishments for studens of the Yandex Lyceum "
+    awarder: "Yandex Lyceum"
+    date: "2024-04-15"
+    summary: "в 2024 году стал призером Открытого конкурса Яндекс Лицея.\n"
+  - title: "Best volonteer of First International Summer Student games in Vladivostok 2024"
+    awarder: "FEFU (University of Russian Far East)"
+    date: "2024-03-24"
+    summary: ""
+  - title: "Winner of the T-bank hackaton in Vladivostok "
+    awarder: "T-bank (T-education)"
+    date: "2025-04-24"
+    summary: ""
+experience:
+  - role: "Team Lead"
+    org: "DonorConnect"
+    start: "2025-11-03"
+    end: ""
+    summary: "DonorConnect Startup is a universal microservices architechure application for didgitalization blood centers and attracting blood donors"
+    button:
+      text: "My portfio"
+      url: "https://docs.google.com/document/d/1USN-FTTaekzHD9WWgG3vs6vl1um5-V-Y8KQD-Ef8lG8/edit?usp=sharing"
+      icon: ""
